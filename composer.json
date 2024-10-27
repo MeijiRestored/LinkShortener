@@ -1,0 +1,15 @@
+{
+  "name": "meiji/link-shortener",
+  "description": "Simple Link Shortener Web App",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Meiji\\LinkShortener\\": "app"
+    }
+  },
+  "require": {
+    "php": "^8.3",
+    "eftec/bladeone": "^4.16"
+  }
+}
