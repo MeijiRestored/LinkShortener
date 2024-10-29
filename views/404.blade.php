@@ -8,6 +8,7 @@
       text-align: center;
       background-color: #111213;
       color: #ffffff;
+      font-family: sans-serif;
     }
   </style>
 </head>
