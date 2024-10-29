@@ -17,3 +17,7 @@ Edit `app/Config/config.json` to change URL mappings.
 Opening `/rick` will redirect to `https://youtu.be/dQw4w9WgXcQ`.
 
 Opening anything else will result in `HTTP 404`.
+
+## Usage
+
+Set up your webserver with `/public` as root folder.
